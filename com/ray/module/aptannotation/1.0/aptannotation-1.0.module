@@ -1,0 +1,82 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.ray.module",
+    "module": "aptannotation",
+    "version": "1.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "aptannotation-1.0.jar",
+          "url": "aptannotation-1.0.jar",
+          "size": 1431,
+          "sha512": "334089b4e5b2aced3d79146b5fe6f618f074341a604a3939739416014d0e53bcf966417eea2d8d2fbfdc33a6b3680e74c8d8caf4e4b437cbc4f2e5594cab5d99",
+          "sha256": "a71fe0832448d5e984157f4256453acada72cc7326d800390383e95cb7acaae2",
+          "sha1": "c06af1faf0bac851362078084e356a27d0b653b0",
+          "md5": "e0d5a6e0b5245fd377f2e711b260929e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.6.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "aptannotation-1.0.jar",
+          "url": "aptannotation-1.0.jar",
+          "size": 1431,
+          "sha512": "334089b4e5b2aced3d79146b5fe6f618f074341a604a3939739416014d0e53bcf966417eea2d8d2fbfdc33a6b3680e74c8d8caf4e4b437cbc4f2e5594cab5d99",
+          "sha256": "a71fe0832448d5e984157f4256453acada72cc7326d800390383e95cb7acaae2",
+          "sha1": "c06af1faf0bac851362078084e356a27d0b653b0",
+          "md5": "e0d5a6e0b5245fd377f2e711b260929e"
+        }
+      ]
+    }
+  ]
+}
