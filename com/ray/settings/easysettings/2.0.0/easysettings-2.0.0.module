@@ -27,11 +27,11 @@
         {
           "name": "easysettings-2.0.0.jar",
           "url": "easysettings-2.0.0.jar",
-          "size": 73616,
-          "sha512": "cd8532500d1a4c0629f51c460eac648e9c17b7e3911727139dff4eac1cf9d125cbefad64a786a5b6ae46e82b07de9ea7b6c3a8c3adf12d33cb339d473f143c1a",
-          "sha256": "69c863959289185b2022e631257f7fa455d0cc62bb0f538ab0c8504515771754",
-          "sha1": "c98f883431df08cbfd7039a3b98bc00aa2f1a7ce",
-          "md5": "90d90ea872da823bdfef05f56789a2ec"
+          "size": 73544,
+          "sha512": "74bc5b2c76fef5c5e2888bbd541ef0b1509042c2ff7ddc0869cb824ea4a56362999e1320ff628c659628256da068376534d7db30e7c14cff8335f4c1985069e6",
+          "sha256": "081f792626d11f0e9e5b2d907ebf48dba5edba8f4a97f671e0970ee6c908a0b0",
+          "sha1": "b835fa7a15ca4671323d684157e9e2a8ed73eb60",
+          "md5": "047c69bbc0c09646f77dd19ae42e2e24"
         }
       ]
     },
@@ -48,11 +48,11 @@
         {
           "name": "easysettings-2.0.0.jar",
           "url": "easysettings-2.0.0.jar",
-          "size": 73616,
-          "sha512": "cd8532500d1a4c0629f51c460eac648e9c17b7e3911727139dff4eac1cf9d125cbefad64a786a5b6ae46e82b07de9ea7b6c3a8c3adf12d33cb339d473f143c1a",
-          "sha256": "69c863959289185b2022e631257f7fa455d0cc62bb0f538ab0c8504515771754",
-          "sha1": "c98f883431df08cbfd7039a3b98bc00aa2f1a7ce",
-          "md5": "90d90ea872da823bdfef05f56789a2ec"
+          "size": 73544,
+          "sha512": "74bc5b2c76fef5c5e2888bbd541ef0b1509042c2ff7ddc0869cb824ea4a56362999e1320ff628c659628256da068376534d7db30e7c14cff8335f4c1985069e6",
+          "sha256": "081f792626d11f0e9e5b2d907ebf48dba5edba8f4a97f671e0970ee6c908a0b0",
+          "sha1": "b835fa7a15ca4671323d684157e9e2a8ed73eb60",
+          "md5": "047c69bbc0c09646f77dd19ae42e2e24"
         }
       ]
     }
